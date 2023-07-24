@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(169, 242, 61);
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 10px;
+   
+}
+
+#timer{
+    font-size: 30px;
+    float:right;
+    margin-right:10px;
+}
+
+#skd{
+    color:red;
+}
